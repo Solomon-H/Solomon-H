@@ -7,9 +7,9 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXWL2p-j52TkPc-Rpuie5hyPn7Znw0lgynwh5We0pKw&s" alt="Image Description" width="300" align="right">
 
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Solomon-H/Portfolio]](https://solomon-h.github.io/Portfolio/)
+- 👨‍💻 Checkout the projects I'm working on [[https://github.com/Solomon-H/Portfolio]](https://solomon-h.github.io/Portfolio/)
 
-- 📫 How to reach me **solomonhhagos@gmail.com**
+- 📫 email me **solomonhhagos@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XiKxk98c--85ZaRdaSKLyfhrWTmnjTv-18jmObcgbiY/edit?usp=sharing](https://docs.google.com/document/d/1XiKxk98c--85ZaRdaSKLyfhrWTmnjTv-18jmObcgbiY/edit?usp=sharing)
 
