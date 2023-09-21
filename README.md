@@ -11,7 +11,7 @@
 
 - 📫 email me 👇**solomonhhagos@gmail.com**
 
-- 📄 my professional experiences 👇[[https://docs.google.com/document/d/1XiKxk98c--85ZaRdaSKLyfhrWTmnjTv-18jmObcgbiY/edit?usp=sharing](https://docs.google.com/document/d/1XiKxk98c--85ZaRdaSKLyfhrWTmnjTv-18jmObcgbiY/edit?usp=sharing)](https://docs.google.com/document/d/1CAuXlHk3srq4RK_HD3p36xpT1fbn1QPFlaH2LULQm8M/edit?usp=sharing)
+- 📄 my professional experiences 👇https://docs.google.com/document/d/1XiKxk98c--85ZaRdaSKLyfhrWTmnjTv-18jmObcgbiY/edit?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
